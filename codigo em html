@@ -1,0 +1,18 @@
+<html>
+
+<head>
+    <link href="curriculoo.css" rel="stylesheet">
+</head>
+
+<body>
+    <h1 class="meio">SEU NOME:Caio Gabriel Sobral de Oliveira</h1> <h1 class="meio">IDADE:12anos</h1> <h1 class="meio">NUMERO PARA CONTATO OU EMAIL:992185236</h1>
+    <h2 class="ob">OBJETIVOS</h2> <h2><li>Atender bem os clientes/e fazer a loja melhorar</li></h2>
+    <h2 class="ob">FORMAÇÃO ACADEMICA</h2> <h2><li>Escola:Coronel Francisco Martins</li></h2> <h2><li>Cursos:Proerd</li></h2>
+    <h2 class="ob">EXPERIENCIA PROFISSIONAL</h2> <h2><li>Nenhuma</li></h2>
+    <h2 class="ob">EMPRESAS QUE VOCÊ JA TRABALHOU</h2> <h2><li>Nenhuma</li></h2>
+    <h2 class="ob">IDIOMAS</h2> <h2><li>O basico de inglês</li></h2>
+    <h2 class="ob">TRABALHOS VOLUNTARIOS</h2> <h2><li>Nenhum</li></h2>
+    <h2 class="ob">INTERCAMBIO</h2> <h2><li>Nenhum</li></h2>
+</body>
+
+</html>
